@@ -1,10 +1,10 @@
         img{ 
             width: 200px;
         }
-        .consola{
-            width: 1000px;
+        .consola_centrado{
+            size: 600px;
+            text-align: center;
         }
-        .FF7{ image-resolution: 10;}
-        p {
-            color: red;
+        .consola_size{
+            width: 600px;
         }

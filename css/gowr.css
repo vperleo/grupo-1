@@ -1,0 +1,22 @@
+img{ 
+    width: 400px;
+}
+.logo{
+    size: 600px;
+    text-align: center;
+}
+.logo_tamano{
+    width: 200px;
+}
+
+body{
+    background-image: url('https://i.imgur.com/6PxhT0V.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    color: maroon;
+}
+font {
+color: maroon;  
+font-size: 25px;          
+}

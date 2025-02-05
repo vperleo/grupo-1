@@ -8,3 +8,8 @@
         .consola_size{
             width: 600px;
         }
+        .back {
+            position-area: top;
+            width: 50px;
+            float: right;
+        }

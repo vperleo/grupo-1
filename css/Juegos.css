@@ -82,6 +82,13 @@ color: maroon;
     background-size:cover;
     color: maroon;  
 }
+.fondo_gtaSA {
+    background-image: url('https://i.imgur.com/XS8JBfs.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    color: maroon;
+}
 .font_shamu {
 color:black;  
 font-size: 25px;          

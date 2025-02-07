@@ -1,6 +1,9 @@
 img{ 
     width: 400px;
 }
+p {
+    text-align: center;
+}
 .logo{
     size: 600px;
     text-align: center;
@@ -66,12 +69,19 @@ color: maroon;
         color: maroon;
 }
 .fondo_GTA {
-    background-image: url('https://imgur.com/undefined');
+    background-image: url('https://i.imgur.com/htcSoGx.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size:cover;
     color: maroon;
-    }
+}
+.fondo_RDD1 {
+    background-image: url('https://i.imgur.com/kGfJ8hc.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    color: maroon;  
+}
 .font_shamu {
 color:black;  
 font-size: 25px;          
@@ -83,6 +93,10 @@ font-size: 25px;
 .font_fantasy {
       color: gray;  
      font-size: 25px;          
+}
+.font_idk {
+    color: blue;
+    font-size: 25px;
 }
 .font_locu {
     color:white;  

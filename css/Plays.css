@@ -13,3 +13,39 @@
             width: 50px;
             float: right;
         }
+        .body_index{
+        background-color: #ffffff;
+        }
+        .header_index {
+            background-color: #4682b4;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .main_index {
+            padding: 20px;
+        }
+        .console {
+            border: 1px solid #ccc;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+            background-size: cover;
+            background-position: center;
+            color: #ffffff;
+        }
+        .logo_principal {
+            position-area: top;
+            width: 50px;
+            float: left;
+        }
+        td {
+            width: 160px;
+        }
+        table {
+            width: 95%;
+        }
+        .jogos {
+            text-align: center;
+        }
+

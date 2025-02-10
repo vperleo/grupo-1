@@ -123,6 +123,38 @@ background-position: center;
     background-position: center;
     color: maroon;   
 }
+.fondo_noPC {
+    background-image: url('https://i.imgur.com/Nb16ZQr.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    background-position: center;
+    color: maroon;   
+}
+.fondo_tlou2 {
+    background-image: url('https://i.imgur.com/DAVkvdx.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    background-position: center;
+    color: maroon; 
+}
+.fondo_RL {
+    background-image: url('https://i.imgur.com/eB4DUeS.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    background-position: center;
+    color: maroon; 
+}
+.fondo_RRD2 { 
+    background-image: url('https://i.imgur.com/i0WClFp.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    background-position: center;
+    color: maroon;   
+}
 .font_shamu {
 color:black;  
 font-size: 25px;          

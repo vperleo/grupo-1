@@ -107,6 +107,22 @@ background-position: center;
     background-position: center;
     color: maroon;   
 }
+.fondo_collosus {
+    background-image: url('https://i.imgur.com/Bn9M8fC.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    background-position: center;
+    color: maroon;   
+}
+.fondo_gow {
+    background-image: url('https://i.imgur.com/FTp75mk.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    background-position: center;
+    color: maroon;   
+}
 .font_shamu {
 color:black;  
 font-size: 25px;          

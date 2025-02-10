@@ -1,9 +1,9 @@
-Index: (0%)
-PLay 2: (92%)
-Play 3: (98%)
-Play 4: (92%)
-Play 5: (99%) 
-CSS:  (90%)
+Index: (100%)
+PLay 2: (97%)
+Play 3: (100%)
+Play 4: (93%)
+Play 5: (100%) 
+CSS:  (98%)
 Para las imagenes: Imgur
 Album: https://imgur.com/a/THye52O
 Notas del commit: Borrada la carpeta de imagenes (no servia para nada) terminado todo la estructura principal de la ps3 solo falta decorar

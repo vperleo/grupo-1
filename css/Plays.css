@@ -48,4 +48,33 @@
         .jogos {
             text-align: center;
         }
+        .fondo_2{
+            background-image: url('https://i.imgur.com/U9CfPXz.jpg');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size:cover;
+            color: #ffffff;
+        }
+        .fondo_3{
+            background-image: url('https://i.imgur.com/DKHhiyf.jpg');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size:cover;
+            color: #ffffff;
+        }
+        .fondo_4{
+            background-image: url('https://i.imgur.com/L82xN7y.jpg');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size:cover;
+            color: #ffffff;
+        }
+        .fondo_5{
+            background-image: url('https://i.imgur.com/rfgqhbK.png');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size:cover;
+            color: #ffffff;
+        }
+
 

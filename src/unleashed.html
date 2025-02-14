@@ -1,5 +1,25 @@
 <html> 
     <head>
+        <style>
+            .button {
+                cursor: pointer;
+                border: none;
+                border-radius: 50px;
+                background-color: hsl(0, 0%, 100%);
+                color: white;
+                transition: transform 0.3s ease, background-color 0.3s ease;
+                width: 100px;
+                height: 50px;
+                margin-left: 20px;
+                margin-right: 20px;
+                font-size: 25px;
+            }
+            
+            .button:hover{
+                transform: scale(1.1);
+                background-color: hwb(0 73% 27%);
+            }
+            </style>
         <title>Sonic Unleashed.html</title>
         <link rel="stylesheet" type="text/css" href="../css/Juegos.css">
         <p class="logo"><img class="logo_tamano" src="https://i.imgur.com/9V5oVnz.png"> </p>
@@ -10,6 +30,7 @@
         <b>Sonic Unleashed es un videojuego de plataformas desarrollado por el Sonic Team y publicado por Sega. Su trama consiste en que: El doctor Robotnik 
             se las ha ideado para fragmentar el mundo en siete trozos, por lo que Sonic deberá volver a restaurar el orden ayudándose por las siete Esmeraldas 
             del Caos</b>
-    </font><br>
-    <font size="5px"> <a href="play3.html">Volver</a></font>
-    </body>
+    </font><br><br>
+   
+    <button class="button"><a href="play3.html">Volver</a></button>
+    <button class="button"><a href="../index.html">Índice</a></button>    </body>

@@ -1,189 +1,257 @@
-img{ 
+img {
     width: 400px;
 }
+
 p {
     text-align: center;
 }
-.logo{
+
+.logo {
     size: 600px;
     text-align: center;
 }
-.logo_tamano{
+
+.logo_tamano {
     width: 200px;
 }
-.fondo_shadow{
-    background-image: url('https://i.imgur.com/X0N9fGN.jpg');
+
+.fondo_shadow {
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size:cover;
+    background-size: cover;
     color: #FFFFFF;
+    margin-left: 5%;
+    margin-right: 5%;
 }
-.fondo_nick{
-    background-image: url('https://i.imgur.com/PIRjvnw.jpg');
+
+.fondo_nick {
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size:cover;
-    color: #FFFFFF;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
 }
-.fondo_fantasy{
-    background-image: url('https://i.imgur.com/NGT3Hfe.jpg');
+
+.fondo_fantasy {
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size:cover;
+    background-size: cover;
     background-position: center;
-    color: maroon;
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
 }
-.fondo_gowr{
-    background-image: url('https://i.imgur.com/6PxhT0V.png');
+
+.fondo_gowr {
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size:cover;
-    color: maroon;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
 }
-.fondo_spidy{
-    background-color: maroon;
-    background-image: url();
+
+.fondo_spidy {
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size:cover;
-    color: maroon;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
 }
-.fondo_astrobot{
-    background-image: url('https://i.imgur.com/ckziVYO.jpg');
-background-repeat: no-repeat;
-background-attachment: fixed;
-background-size:cover;
-color: maroon;
-background-position: center;
+
+.fondo_astrobot {
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    background-position: center;
+    margin-left: 5%;
+    margin-right: 5%;
 }
+
 .fondo_holland {
-    background-image: url('https://i.imgur.com/DBXorwP.png');
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size:cover;
-    color: maroon;
-    }
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
 .fondo_zombis {
-        background-image: url('https://i.imgur.com/hqVyjqn.jpg');
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-size:cover;
-        color: maroon;
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
 }
+
 .fondo_GTA {
-    background-image: url('https://i.imgur.com/htcSoGx.jpg');
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size:cover;
-    color: maroon;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
 }
+
 .fondo_RDD1 {
-    background-image: url('https://i.imgur.com/kGfJ8hc.jpg');
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size:cover;
-    color: maroon;  
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
 }
+
 .fondo_gtaSA {
-    background-image: url('https://i.imgur.com/ekjjBwF.jpg');
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size:cover;
-    color: maroon;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
 }
+
 .fondo_fantasyX {
-    background-image: url('https://i.imgur.com/tv0ugjY.png');
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size:cover;
+    background-size: cover;
     background-position: center;
-    color: maroon;
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
 }
-.fondo_serpiente{
-    background-image: url('https://i.imgur.com/0Luuiqq.jpg');
+
+.fondo_serpiente {
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size:cover;
+    background-size: cover;
     background-position: center;
-    color: maroon;   
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
 }
+
 .fondo_collosus {
-    background-image: url('https://i.imgur.com/Bn9M8fC.png');
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size:cover;
+    background-size: cover;
     background-position: center;
-    color: maroon;   
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
 }
+
 .fondo_gow {
-    background-image: url('https://i.imgur.com/FTp75mk.jpg');
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size:cover;
+    background-size: cover;
     background-position: center;
-    color: maroon;   
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
 }
+
 .fondo_noPC {
-    background-image: url('https://i.imgur.com/Nb16ZQr.jpg');
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size:cover;
+    background-size: cover;
     background-position: center;
-    color: maroon;   
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
 }
+
 .fondo_tlou2 {
-    background-image: url('https://i.imgur.com/DAVkvdx.jpg');
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size:cover;
+    background-size: cover;
     background-position: center;
-    color: maroon; 
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
 }
+
 .fondo_RL {
-    background-image: url('https://i.imgur.com/eB4DUeS.png');
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size:cover;
+    background-size: cover;
     background-position: center;
-    color: maroon; 
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
 }
-.fondo_RRD2 { 
-    background-image: url('https://i.imgur.com/i0WClFp.png');
+
+.fondo_RRD2 {
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size:cover;
+    background-size: cover;
     background-position: center;
-    color: maroon;   
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
 }
+
 .font_shamu {
-color:black;  
-font-size: 25px;          
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+
 }
+
 .font_gowr {
-    color: maroon;  
-    font-size: 25px;          
-}
-.font_fantasy {
-      color: gray;  
-     font-size: 25px;          
-}
-.font_idk {
-    color: blue;
+    color: rgb(255, 255, 255);
     font-size: 25px;
 }
+
+.font_fantasy {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+
+.font_idk {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+
 .font_locu {
-    color:white;  
-    font-size: 25px;           
+    color: rgb(255, 255, 255);
+    font-size: 25px;
 }
- .font_unleashed {
-    color: gold;  
-    font-size: 25px;  
+
+.font_unleashed {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
 }
+
 .font_drake {
-    color: cyan;
+    color: rgb(255, 255, 255);
     font-size: 25px
 }
-.font_arbol  {
-    color: lime;
+
+.font_arbol {
+    color: rgb(255, 255, 255);
     font-size: 25px
 }

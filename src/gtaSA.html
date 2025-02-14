@@ -1,5 +1,25 @@
 <html> 
     <head>
+        <style>
+            .button {
+                cursor: pointer;
+                border: none;
+                border-radius: 50px;
+                background-color: hsl(0, 0%, 100%);
+                color: white;
+                transition: transform 0.3s ease, background-color 0.3s ease;
+                width: 100px;
+                height: 50px;
+                margin-left: 20px;
+                margin-right: 20px;
+                font-size: 25px;
+            }
+            
+            .button:hover{
+                transform: scale(1.1);
+                background-color: hwb(0 73% 27%);
+            }
+            </style>
         <title>GTA San Andreas.html</title>
         <link rel="stylesheet" type="text/css" href="../css/Juegos.css">
         <p class="logo"><img class="logo_tamano" src="https://i.imgur.com/B4ewHnA.png"> </p>
@@ -14,6 +34,7 @@
             su familia ha sido marginada y sus amigos de la infancia se han visto arrastrados hacia el desastre. En su regreso a su antiguo vecindario, 
             una pareja de policías corruptos le buscan por homicidio. CJ se ve forzado a emprender un viaje que le llevará a través del estado de San Andreas, 
             para así salvar a su familia y recuperar el control de las calles.
-    </font><br>
-    <font size="5px"> <a href="play2.html">Volver</a></font>
-    </body>
+        </font><br><br>
+
+        <button class="button"><a href="play2.html">Volver</a></button>
+    <button class="button"><a href="../index.html">Índice</a></button>    </body>

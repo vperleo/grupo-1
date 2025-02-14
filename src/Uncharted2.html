@@ -1,5 +1,25 @@
 <html> 
     <head>
+        <style>
+            .button {
+                cursor: pointer;
+                border: none;
+                border-radius: 50px;
+                background-color: hsl(0, 0%, 100%);
+                color: white;
+                transition: transform 0.3s ease, background-color 0.3s ease;
+                width: 100px;
+                height: 50px;
+                margin-left: 20px;
+                margin-right: 20px;
+                font-size: 25px;
+            }
+            
+            .button:hover{
+                transform: scale(1.1);
+                background-color: hwb(0 73% 27%);
+            }
+            </style>
         <title>Uncharted 2.html</title>
         <link rel="stylesheet" type="text/css" href="../css/Juegos.css">
         <p class="logo"><img class="logo_tamano" src="https://i.imgur.com/sVAkfvP.png"> </p>
@@ -11,6 +31,6 @@
             Su trama consiste en que: Nathan Drake: Nate es un aventurero cazatesoros. Esta vez, Nate se embarca en una aventura junto a su viejo 
             compañero Harry Flynn y una antigua conquista, Chloe Frazer, con el plan de robar un objeto del museo de Estambul como encargo para un 
             empresario serbio.
-    </font><br>
-    <font size="5px"> <a href="play3.html">Volver</a></font>
-    </body>
+    </font><br><br>
+    <button class="button"><a href="play3.html">Volver</a></button>
+    <button class="button"><a href="../index.html">Índice</a></button>    </body>

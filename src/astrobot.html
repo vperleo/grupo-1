@@ -1,5 +1,25 @@
 <html> 
     <head>
+        <style>
+            .button {
+                cursor: pointer;
+                border: none;
+                border-radius: 50px;
+                background-color: hsl(0, 0%, 100%);
+                color: white;
+                transition: transform 0.3s ease, background-color 0.3s ease;
+                width: 100px;
+                height: 50px;
+                margin-left: 20px;
+                margin-right: 20px;
+                font-size: 25px;
+            }
+            
+            .button:hover{
+                transform: scale(1.1);
+                background-color: hwb(0 73% 27%);
+            }
+            </style>
         <title>Astrobot.html</title>
         <link rel="stylesheet" type="text/css" href="../css/Juegos.css">
         <p class="logo"><img class="logo_tamano" src="https://i.imgur.com/rqlDDhv.png"> </p>
@@ -11,6 +31,7 @@
         Su premisa consiste en que el jugador se embarca en una misión para salvar a los robots perdidos, recuperar piezas para la nave nodriza de PlayStation 5 y derrotar al 
         alienígena Space Bully Nebulax, que destruyó la nave nodriza. Al igual que su predecesor, el juego saca el máximo partido del mando DualSense. Fue el juego del año de 2024
         </b>
-    </font><br>
-    <font size="5px"> <a href="play5.html">Volver</a></font>
-    </body>
+    </font><br><br>
+    <button class="button"><a href="play5.html">Volver</a></button>
+    <button class="button"><a href="../index.html">Índice</a></button>    </body>
+</html>

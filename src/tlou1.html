@@ -1,5 +1,25 @@
 <html> 
     <head>
+        <style>
+            .button {
+                cursor: pointer;
+                border: none;
+                border-radius: 50px;
+                background-color: hsl(0, 0%, 100%);
+                color: white;
+                transition: transform 0.3s ease, background-color 0.3s ease;
+                width: 100px;
+                height: 50px;
+                margin-left: 20px;
+                margin-right: 20px;
+                font-size: 25px;
+            }
+            
+            .button:hover{
+                transform: scale(1.1);
+                background-color: hwb(0 73% 27%);
+            }
+            </style>
         <title>The last of us.html</title>
         <link rel="stylesheet" type="text/css" href="../css/Juegos.css">
         <p class="logo"><img class="logo_tamano" src="https://i.imgur.com/K2Zt1z6.png"> </p>
@@ -10,6 +30,7 @@
         <b>The Last of Us Part I es un videojuego de acción y aventura de 2022 desarrollado por Naughty Dog y publicado por Sony Interactive Entertainment. 
             Su trama consiste en que: en septiembre de 2013 se desata una pandemia en Estados Unidos ocasionada por una cepa del hongo Cordyceps, 
             que al infectar a los humanos los convierte en criaturas caníbales, y que se transmite a través de una simple mordedura.
-    </font><br>
-    <font size="5px"> <a href="play3.html">Volver</a></font>
+    </font><br><br>
+    <button class="button"><a href="play3.html">Volver</a></button>
+    <button class="button"><a href="../index.html">Índice</a></button>    
     </body>
